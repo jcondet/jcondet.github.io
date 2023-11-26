@@ -1,0 +1,20 @@
+.fila_head{
+    font-family:arial;
+    font-size:100%;
+    font-style:italic;
+    font-variant:small-caps;/
+    color:red;
+    }
+    
+    table{
+    border-collapse:collapse;
+    background-color:yellow;
+    border:1px dotted black;
+    border-bottom-style:dashed;
+    border-bottom-color:red;
+    margin:0 auto;
+    }
+    
+    td{ 
+    border:1px dotted black;
+    }
